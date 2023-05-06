@@ -1,0 +1,4 @@
+distance,consume,speed,temp_inside,temp_outside,specials,gas_type,AC,rain,sun,refill liters,refill gas
+16.1,5.4,24,21.5,7,rain,E10,0,1,0,38,E10
+43.7,4.7,44,22.0,9,half rain half sun,SP98,0,1,0,10,SP98
+25.7,4.9,50,22.0,10,rain,SP98,0,1,0,41,SP98
